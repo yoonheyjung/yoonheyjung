@@ -36,3 +36,10 @@
 ![Heyjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonheyjung&show_icons=true&theme=noctis_minimus)
 
 ## ✏️ Latest Blog Post
+
+[2023/10/23 - DB 부하관리](https://mukjjang.tistory.com/entry/DB-%EB%B6%80%ED%95%98%EA%B4%80%EB%A6%AC) <br>
+[2023/10/23 - 정규화 vs 비정규화 데이터베이스](https://mukjjang.tistory.com/entry/%EC%A0%95%EA%B7%9C%ED%99%94-vs-%EB%B9%84%EC%A0%95%EA%B7%9C%ED%99%94-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4) <br>
+[2023/10/23 - Notice](https://mukjjang.tistory.com/notice/10) <br>
+[2023/10/23 - ORM의 장점과 그 종류](https://mukjjang.tistory.com/entry/ORM%EC%9D%98-%EC%9E%A5%EC%A0%90%EA%B3%BC-%EA%B7%B8-%EC%A2%85%EB%A5%98) <br>
+[2022/1/11 - 쿠키, 세션, 토큰의 차이점](https://mukjjang.tistory.com/entry/%EC%BF%A0%ED%82%A4-%EC%84%B8%EC%85%98-%ED%86%A0%ED%81%B0%EC%9D%98-%EC%B0%A8%EC%9D%B4%EC%A0%90) <br>
+[2022/1/11 - Array.prototype.map()](https://mukjjang.tistory.com/entry/Arrayprototypemap) <br>
