@@ -12,19 +12,11 @@
 
 ### 💡 Used as the main
 
-  <img src='https://img.shields.io/badge/node-518d7d?style=flat&logo=Node.js&logoColor=white'>
-  <img src='https://img.shields.io/badge/Express-f8ca8f?style=flat&logo=express&logoColor=white'>
-  <img src='https://img.shields.io/badge/JavaScript-ffcc00?style=flat&logo=javascript&logoColor=white'>
-  <img src='https://img.shields.io/badge/php-04558A?style=flat&logo=php&logoColor=white'>
-  <img src="https://img.shields.io/badge/MySql-586fab?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/redis-d65353?style=flat&logo=redis&logoColor=white"/>
+  <img src='https://img.shields.io/badge/node-518d7d?style=flat&logo=Node.js&logoColor=white'> <img src='https://img.shields.io/badge/Express-f8ca8f?style=flat&logo=express&logoColor=white'> <img src='https://img.shields.io/badge/JavaScript-ffcc00?style=flat&logo=javascript&logoColor=white'> <img src='https://img.shields.io/badge/php-04558A?style=flat&logo=php&logoColor=white'> <img src="https://img.shields.io/badge/MySql-586fab?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/redis-d65353?style=flat&logo=redis&logoColor=white"/>
 
 ### 💡 Used as least once
 
-  <img src="https://img.shields.io/badge/Docker-4465c0?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-21aca9?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue-01B257?style=flat&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/html-fe8d6f?style=flat&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-4465c0?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-21aca9?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Vue-01B257?style=flat&logo=vue.js&logoColor=white"/> <img src="https://img.shields.io/badge/html-fe8d6f?style=flat&logo=html5&logoColor=white"/>
 
 </br>
 </br>
