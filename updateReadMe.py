@@ -1,4 +1,26 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=I'm%20녜정&fontSize=85)
+import feedparser
+import os
+
+test_env = os.environ.get("TEST_ENV", "✏️ Latest Blog Post")
+
+print(f"test_env = {test_env}")
+
+mukjjangBlogUrlRss = "https://mukjjang.tistory.com/rss"
+rss_feed = feedparser.parse(mukjjangBlogUrlRss)
+
+MAX_POST_NUM = 5
+
+latest_blog_post_list = ""
+
+MAX_POST_NUM = 5
+
+for idx, feed in enumerate(rss_feed['entries']):
+    if idx > MAX_POST_NUM:
+        break
+    feed_date = feed['published_parsed']
+    latest_blog_post_list += f"[{feed_date.tm_year}/{feed_date.tm_mon}/{feed_date.tm_mday} - {feed['title']}]({feed['link']}) <br>\n"
+    
+markdown_text = """![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=I'm%20녜정&fontSize=85)
 
 ## 🚀 About Me
 
@@ -36,3 +58,10 @@
 ![Heyjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonheyjung&show_icons=true&theme=noctis_minimus)
 
 ## ✏️ Latest Blog Post
+
+"""
+
+readme_text = f"{markdown_text}{latest_blog_post_list}"
+
+with open("README.md", 'w', encoding='utf-8') as f:
+    f.write(readme_text)
