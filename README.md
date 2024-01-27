@@ -40,4 +40,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoonheyjung&theme=onedark&layout=compact)](https://github.com/yoonheyjung/badwords-ko)
 
-![Heyjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonheyjung&show_icons=true&theme=noctis_minimus)
+<!-- ![Heyjung's GitHub stats](https://github-readme-stats.vercel.app/api?username=yoonheyjung&show_icons=true&theme=noctis_minimus) -->
